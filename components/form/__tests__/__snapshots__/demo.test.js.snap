@@ -1547,7 +1547,7 @@ exports[`renders ./components/form/demo/validate-other.vue correctly 1`] = `
       <!---->
     </div>
     <!---->
-    <div class="ant-form-item-extra">longgggggggggggggggggggggggggggggggggg</div>
+    <div class="ant-form-item-extra">long</div>
   </div>
   </div>
   <div class="ant-row ant-form-item">

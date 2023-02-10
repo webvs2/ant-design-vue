@@ -127,7 +127,7 @@ Demonstration of validation configuration for form controls which are not shown 
       <a-rate v-model:value="formState.rate" allow-half />
     </a-form-item>
 
-    <a-form-item name="upload" label="Upload" extra="longgggggggggggggggggggggggggggggggggg">
+    <a-form-item name="upload" label="Upload" extra="long">
       <a-upload
         v-model:fileList="formState.upload"
         name="logo"
